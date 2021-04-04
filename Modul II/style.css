@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;800&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    background-color: rgb(255, 255, 255);
+}
+
+
+h3{
+    top: 169px;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 88px;
+}
+    
+.border{
+    position: absolute;
+    width: 592px;
+    height: 650px;
+    left: 445px;
+    top: 55px;
+    background: #FF7C7C;
+    border-radius: 20px;
+}
+
+.un{
+    position: absolute;
+    font-size: 15px;
+    font-weight: 600;
+    left: 260px;
+}
+
+.pw{
+    border: 0;
+    display: block;
+    margin: 5px auto;
+    text-align: center;
+    border: 2px solid #d35555;
+    padding: 10px 10px;
+    width: 200px;
+    outline: none;
+    border-radius:20px;
+}
+
+.lg{
+    font-family: 'Montserrat', sans-serif;
+    position:absolute;
+    left: 255px;
+    border: 2px solid #d35555;
+    padding: 10px 20px;
+    border-radius:20px;
+}
+
+h1{
+    margin-top: 100px;
+    font-size:12px;
+    font-weight: 600;
+    position: absolute;
+    left: 20px;
+    bottom: 80px;
+}
+
+p{
+    font-size: 10px;
+    line-height: 15px;
+    font-weight: 500;
+    position: absolute;
+    left: 20px;
+    bottom: 30px;
+}
